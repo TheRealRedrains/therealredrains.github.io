@@ -1,0 +1,25 @@
+header {
+	width: 100%;
+	height: auto;
+	background-image: url("My_Channel.gif");
+	padding: 30%
+}
+body {
+		font-family: "Magneto", Magneto;
+}
+h1 {
+	color: #7A0019;
+}
+h2 {
+	color: #7A0019;
+}
+body {
+	background-image: url("Background2.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+footer {
+	background-image: url("Banner.jpg");
+	background-repeat: no-repeat;
+	padding: 20%
+}
